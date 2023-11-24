@@ -1,0 +1,21 @@
+.clip-ellipse {
+  clip-path: ellipse(100px 100px at 50vw 50vh);
+   /* filter: blur(4px);*/
+  /* OLD VALUE example: ellipse(245px, 80px, 75px, 30px); */
+}
+
+p {
+  font-size: 25px;
+}
+p {
+  color: #a66cff;
+}
+p:visited {
+  color: #f9d923;
+}
+p:hover {
+  color: #3ec70b;
+}
+p:active {
+  color: coral;
+}
