@@ -12,9 +12,11 @@ p {
 }
 p:visited {
   color: #f9d923;
+  filter: blur(4px);
 }
 p:hover {
   color: #3ec70b;
+  font-size:150%;
 }
 p:active {
   color: coral;
