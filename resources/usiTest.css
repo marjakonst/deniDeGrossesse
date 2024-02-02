@@ -1,5 +1,5 @@
 .clip-ellipse {
-  clip-path: ellipse(100px 100px at 50vw 50vh);
+  clip-path: ellipse(100px 100px at 35vw 35vh);
    /* filter: blur(4px);*/
   /* OLD VALUE example: ellipse(245px, 80px, 75px, 30px); */
 }
